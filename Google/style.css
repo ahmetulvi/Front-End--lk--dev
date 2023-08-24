@@ -1,0 +1,30 @@
+body{
+   text-align: center;
+   margin: 8px;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+img{
+    overflow-clip-margin: content-box;
+}
+.bottom{
+    display: flex;
+    
+}
+.bottom-left{
+    flex: 1.35;
+    background-color: #7EE5DA;;
+}
+.bottom-mid{
+    flex: 1.10;
+    background-color: #70CCC2;
+}
+.bottom-right{
+    background-color: #62B3AA;
+    flex: 1.35;
+}
+.searchbox{
+    background-color:rgb(224, 224, 224);
+}
