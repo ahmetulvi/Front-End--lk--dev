@@ -1,0 +1,29 @@
+
+body{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #0093E9;
+background-image: linear-gradient(80deg, #0093E9 0%, #80D0C7 100%);
+
+    
+}
+.nav ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: aliceblue;
+    
+}
+.content ul{
+    list-style: none;
+    text-align: center;
+    
+}
+.products ul{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    
+}
+.products{
+    padding: 30px;
+}
