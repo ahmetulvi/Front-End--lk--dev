@@ -1,0 +1,10 @@
+.btn{
+    background: linear-gradient(135deg,rgba(112,73,186,0.6785938262939453),rgba(233,80,149,0.3910938262939453))!important;
+    border-radius: 30px;
+    border-style: none;
+    padding: 10px;
+    -webkit-box-shadow: 6px 5px 54px -6px rgba(0,0,0,0.83);
+-moz-box-shadow: 6px 5px 54px -6px rgba(0,0,0,0.83);
+box-shadow: 6px 5px 54px -6px rgba(0,0,0,0.83);
+
+}
